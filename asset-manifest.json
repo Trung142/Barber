@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Barber/static/css/main.75d3ada6.css",
+    "main.js": "/Barber/static/js/main.5e2cb13c.js",
+    "static/js/787.b0ed42b8.chunk.js": "/Barber/static/js/787.b0ed42b8.chunk.js",
+    "static/media/nen.png": "/Barber/static/media/nen.01c3a080c202ad930069.png",
+    "static/media/fa-solid-900.ttf": "/Barber/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/van-hoa-barber-va-nghe-thuat-rau-toc-cho-quy-ong.jpg": "/Barber/static/media/van-hoa-barber-va-nghe-thuat-rau-toc-cho-quy-ong.08ac2cb2195f2f7ac6b5.jpg",
+    "static/media/fa-brands-400.ttf": "/Barber/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/keo.jpg": "/Barber/static/media/keo.ffc64abbb498ba728aa6.jpg",
+    "static/media/fa-solid-900.woff2": "/Barber/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/Barber/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/Barber/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/dongho.jpg": "/Barber/static/media/dongho.5aaa67dec2ef57c5509c.jpg",
+    "static/media/dao.jpg": "/Barber/static/media/dao.a71d9a076d3e11cff921.jpg",
+    "static/media/fa-regular-400.woff2": "/Barber/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/dau.jpg": "/Barber/static/media/dau.d70f3e41385ddb012394.jpg",
+    "static/media/fa-v4compatibility.ttf": "/Barber/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Barber/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/Barber/index.html",
+    "main.75d3ada6.css.map": "/Barber/static/css/main.75d3ada6.css.map",
+    "main.5e2cb13c.js.map": "/Barber/static/js/main.5e2cb13c.js.map",
+    "787.b0ed42b8.chunk.js.map": "/Barber/static/js/787.b0ed42b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75d3ada6.css",
+    "static/js/main.5e2cb13c.js"
+  ]
+}
